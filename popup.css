@@ -1,0 +1,21 @@
+html {
+  min-height: 5em;
+  min-width: 50em;
+  background: white;
+}
+
+body {
+  font-family: Times, serif;
+}
+
+table {
+  width: 100%;
+}
+
+button {
+  padding: 1px 6px 2px 6px;
+}
+
+p {
+  font-size: 18px;
+}
